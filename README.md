@@ -47,10 +47,9 @@ Make sure you have the following installed:
    cd Quick-Cart
 
 2. Install dependencies and Start the development server:
-
-  ```bash
-  npm install
-  npm start
+   ```bash
+   npm install
+   npm start
 
 3. Open your browser and navigate to http://localhost:3000.
 
