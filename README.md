@@ -25,11 +25,6 @@
 
 ---
 
-## 📸 Screenshots
-(Include screenshots of your app's homepage, product page, and cart page for better engagement.)
-
----
-
 ## 🚀 Getting Started
 
 Follow these instructions to set up and run the project locally.
@@ -54,22 +49,22 @@ Make sure you have the following installed:
 3. Open your browser and navigate to http://localhost:3000.
 
 
-### 🛒 Functionality Overview
+## 🛒 Functionality Overview
 - Homepage: Displays a list of products.
 - Product Page: Allows users to view detailed product information.
 - Cart: Enables users to add/remove items and manage cart content.
 - Filters: Helps users sort products by category.
 
-### 🧑‍💻 Author
+## 🧑‍💻 Author
 - Vikas Saxena
 - GitHub: VikasSaxena2204
 - LinkedIn: linkedin.com/in/2204-vikas-saxena
 - Portfolio: my-portfolio-vikas.vercel.app
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### 🌟 Support
+## 🌟 Support
 If you like this project, don't forget to give it a ⭐ on GitHub!
 
 
@@ -79,7 +74,7 @@ If you like this project, don't forget to give it a ⭐ on GitHub!
 ![Homepage 1 Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-1.png)
 
 ### HomePage 2
-![HomePage 2 Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/screenshots/product-page.png)
+![HomePage 2 Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-2.png)
 
 ### Cart Page
 ![Cart Page Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-3.png)
