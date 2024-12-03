@@ -72,3 +72,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### 🌟 Support
 If you like this project, don't forget to give it a ⭐ on GitHub!
+
+
+## 📸 Screenshots
+
+### Homepage 1
+![Homepage 1 Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-1.png)
+
+### HomePage 2
+![HomePage 2 Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/screenshots/product-page.png)
+
+### Cart Page
+![Cart Page Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-3.png)
+
+### Order Successful Page
+![Order Successful Page Screenshot](https://github.com/VikasSaxena2204/Quick-Cart/blob/main/assets/QuickCart-4.png)
+
+
