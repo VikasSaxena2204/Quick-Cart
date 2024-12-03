@@ -1,31 +1,20 @@
+/* General Styles */
 .App {
   text-align: center;
 }
 
+/* App logo */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  transition: transform 0.3s ease-in-out;
 }
 
+/* Animation for logo */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +25,58 @@
     transform: rotate(360deg);
   }
 }
+
+/* App Header */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 20px;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+/* App Link */
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.App-link:hover {
+  color: #21a1f1;
+  text-decoration: underline;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+  .App-logo {
+    height: 30vmin; 
+  }
+
+  .App-header {
+    font-size: calc(8px + 2vmin);
+  }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .App-header {
+    background-color: #181a1b;
+    color: #eaeaea;
+  }
+
+  .App-link {
+    color: #70a1d7;
+  }
+}
+
