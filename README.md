@@ -1,6 +1,6 @@
 # Quick-Cart
 
-**Quick-Cart** is a sleek and modern shopping app built with React. It allows users to browse a variety of products, add items to their cart, and filter products based on categories like mobile, laptop, and tablet. The app provides a seamless shopping experience with an intuitive UI and responsive design.
+**Quick-Cart** is a sleek and modern shopping app built with React. It allows users to browse various products, add items to their cart, and filter products based on categories like mobile, laptop, and tablet. The app provides a seamless shopping experience with an intuitive UI and responsive design.
 
 ---
 
